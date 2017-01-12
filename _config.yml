@@ -1,0 +1,56 @@
+typography_spectrum: 0.17626996750390103
+color:
+  brandStrength: 0.6289521459349902
+  lightness: 0.1667683192071422
+  saturation: 0.23453220562557553
+  rhythmicContrast: 0.26131643031456386
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+layout_spectrum: 0.080798094522042
+author:
+  name: oh...wtf
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e333a1b9-96da-4638-983a-c050f0671e1b.jpg
+name: wala music
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: facebook
+    url: 'https://www.facebook.com/WALAmusic'
+    type: external
+  - name: soundcloud
+    url: 'https://soundcloud.com/wala'
+    type: external
+  - name: youtube
+    url: 'https://www.youtube.com/user/theWALAmusic'
+    type: external
+  - name: instagram
+    url: 'https://www.instagram.com/walamusic/'
+    type: external
+  - name: support my music
+    url: 'https://walamusic.bandcamp.com/music'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/06062c2a-9fa0-4832-8104-a8729266fecc.jpg
+title: wala music
+content: []
+description: >-
+  Electronic Music Producer | Ableton Live Educator | Late-night Ninja Baker |
+  Muse
+purpose:
+  - type: external
+    url: 'https://walamusic.bandcamp.com/merch/private-ableton-lesson'
+    label: private ableton lessons!
+  - type: contact
+    url: 'mailto:walasounds@gmail.com'
+    label: booking
+github: true
